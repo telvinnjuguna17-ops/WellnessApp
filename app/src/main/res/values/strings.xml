@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+
+    <string-array name="exercise_types">
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Gym - Weights</item>
+        <item>Yoga</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="meal_types">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+
+    <string-array name="goal_categories">
+        <item>Exercise</item>
+        <item>Nutrition</item>
+        <item>Hydration</item>
+        <item>Sleep</item>
+        <item>Meditation</item>
+        <item>Wellness</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
